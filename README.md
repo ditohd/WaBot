@@ -21,7 +21,7 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 > apt update && apt upgrade -y
 > pkg install git -y
 > pkg install bash -y
-> git clone https://github.com/MrG3P5/SELF-BOT.git
+> git clone https://github.com/Urghyrex/SELF-BOT.git
 > cd SELF-BOT
 > bash install.sh
 > npm start
