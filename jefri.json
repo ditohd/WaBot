@@ -1,0 +1,39 @@
+{
+	"key": {
+		"remoteJid": "6287709153121-1601091415@g.us",
+		"fromMe": false,
+		"id": "3EB029586B6FF33FBEBD"
+	},
+	"message": {
+		"extendedTextMessage": {
+			"text": "deval //\n fs.writeFileSync('./jefri.json', JSON.stringify(mek, null, '\\t'))",
+			"previewType": "NONE",
+			"contextInfo": {
+				"stanzaId": "3EB06B624E9C86DC71E8",
+				"participant": "6282250060725@s.whatsapp.net",
+				"quotedMessage": {
+					"contactsArrayMessage": {
+						"contacts": [
+							{
+								"displayName": "jeffry",
+								"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;jeffry;;;\nFN:jeffry\nTEL;type=CELL;waid=6281268385302:+62 812-6838-5302\nEND:VCARD"
+							},
+							{
+								"displayName": "Jefri",
+								"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;Jefri;;;\nFN:Jefri\nTEL;type=CELL;waid=6282235465860:+62 822-3546-5860\nEND:VCARD"
+							},
+							{
+								"displayName": "Jefri Zj",
+								"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:Zj;Jefri;;;\nFN:Jefri Zj\nTEL;type=CELL;waid=6282387250982:+62 823-8725-0982\nEND:VCARD"
+							}
+						]
+					}
+				}
+			}
+		}
+	},
+	"messageTimestamp": "1617767794",
+	"status": "ERROR",
+	"participant": "6282250060725@s.whatsapp.net",
+	"ephemeralOutOfSync": false
+}
